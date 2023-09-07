@@ -6,6 +6,8 @@ public class VendingMachine {
         Scanner scanner = new Scanner(System.in);
 
         // Define the available items and their prices
+        //items is an array object items[0] "Soda"
+        //prices is an array object price[0] 1.50
         String[] items = {"Soda", "Chips", "Candy", "Water"};
         double[] prices = {1.50, 1.00, 0.75, 1.25};
 
