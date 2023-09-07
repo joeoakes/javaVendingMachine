@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class VendingMachine {
     public static void main(String[] args) {
+        //https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Scanner.html
         Scanner scanner = new Scanner(System.in);
 
         // Define the available items and their prices
