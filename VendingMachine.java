@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;  // java.util is the package, Scanner is the class file to import
 
 public class VendingMachine {
     public static void main(String[] args) {
