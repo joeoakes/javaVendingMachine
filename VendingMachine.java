@@ -23,7 +23,7 @@ public class VendingMachine {
         // Initialize the total amount
         double totalAmount = 0.0;
 
-        // Endless loop condition until a breaks out of the loop condition
+        // Endless loop condition until a breaks out of the loop condition. Item selections
         while (true) {
             // Prompt the user for the item selection. Notice the type of input is interger
             System.out.print("Enter the item number (1-" + items.length + ") or 0 to exit: ");
