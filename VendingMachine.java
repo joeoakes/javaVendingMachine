@@ -64,6 +64,7 @@ public class VendingMachine {
         System.out.println("Thank you for using the Vending Machine!");
         System.out.println("Total amount earned: $" + totalAmount);
 
+        // Always close input, open connections to files, database,& networking
         scanner.close();
     }
 }
